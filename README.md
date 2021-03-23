@@ -4,7 +4,7 @@
 
 Submitted by: **Juliana Redondo Ferrell**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: https://deadpan-slash-catmint.glitch.me/
 
@@ -39,21 +39,22 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+![](http://g.recordit.co/Jf5TYI8JaN.gif)
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+- https://www.w3schools.com/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The most challenging part was to try implementing additional features. I had trouble coding 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+The questions that came up after completing the project were mostly related to how to implement Javascript on to the code.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had more time, I would have liked to add additional features to the buttons: probably playing around with different sounds, adding images as the buttons get pressed on, and even being able to have them change shapes after a certain pattern is reached.
 
 
 
